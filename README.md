@@ -11,7 +11,7 @@ Kit fonctionnant sous Windows10.
     Répertoires : CC65 / asminc, bin, cfg, html, include, lib, samples, target
 
 ## Inclus des outils de développement : 
-- Oric Explorer version 2.41 par Damien de Dipisoft
+- Oric Explorer version 2.5.0 par Damien de Dipisoft
     Origine : https://github.com/oric-software/OricExplorer
     Répertoire : OricExplorer
 
