@@ -8,7 +8,7 @@ Kit fonctionnant sous Windows10.
 ## Inclus l'environnement de développement CC65 : 
 - CC65 version 2.19 : 
     Origine : https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip
-    Répertoires : CC65 / asminc, bin, cfg, html, include, lib, samples, target
+    Répertoires : CC65 / asminc, bin, cfg, html, include, lib, target
 
 ## Inclus des outils de développement : 
 - Oric Explorer version 2.5.0 par Damien de Dipisoft
