@@ -1,4 +1,4 @@
-![](https://github.com/oric-software/CEO_DevKit/blob/main/.ceo/logo_ceo_small.svg)
+![](https://github.com/club-europe-oric/DEVKIT_CEO/blob/main/.ceo/logo_ceo_small.svg)
 
 
 # Kit de Développement Oric basé sur CC65
