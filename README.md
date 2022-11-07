@@ -1,7 +1,7 @@
 ![](https://github.com/club-europe-oric/DEVKIT_CEO/blob/main/.ceo/logo_ceo_small.svg)
 
 
-# Kit de Développement Oric basé sur CC65
+# Kit de Développement Oric basé sur CC65 
 Kit de Développement Oric, basé sur CC65 complété d'outils graphiques et de manipulation de fichiers Oric
 Kit fonctionnant sous Windows10.
 
@@ -22,12 +22,12 @@ Kit fonctionnant sous Windows10.
 
 ## Inclus des outils d'émulation : 
 - DosBox-X version 0.82
-- Euphoric version 1.020 : 
+- Euphoric version 1.014 : 
     Origine : https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v0.83.10/dosbox-x-mingw-win64-20210201000212.zip, 
     http://oric.free.fr/EMULATORS/Euphoric.zip
     Répertoires : Dosbox, Euphoric
-- Oricutron V2021.02.14 : 
-    Origine : ISS
+- Oricutron V1.2 : 
+    Origine : -
     Répertoire : Oricutron
 
 ## Inclus des librairies d'aide au developpement
